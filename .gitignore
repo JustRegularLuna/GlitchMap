@@ -1,0 +1,2 @@
+# ignore GlitchMap generated files, since that would be messy
+GlitchMap/data.js
